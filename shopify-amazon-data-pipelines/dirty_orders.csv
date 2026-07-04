@@ -1,0 +1,5 @@
+row_id,customer,date_placed,amount
+1,  ALEX SHAH !! ,2026/06/15,$120.50 USD
+2,fiona_geller__,2026/06/17,$45.00 USD
+3,CORRUPT_RECORD_##,BAD_DATE,ERROR
+4,   ZAIN MALIK ,2026/06/14,$350.00 USD
